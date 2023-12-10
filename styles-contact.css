@@ -60,7 +60,7 @@ html, body {
   width: 100%;
   padding: 0;
   margin: 0;
-  background-image: url("images/pattern-background.jpg");
+  background-image: url("images/contact_background.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -70,11 +70,11 @@ html, body {
 }
 
 .center {
-    width: 30%;
-	min-width: 200px;
+    width: 36%;
+	min-width: 300px;
 	padding: 5%;
     margin: 200px auto;
- 	background: rgba(162, 133, 149, 0.90); /*this uses opacity of 75% for the background color*/
+ 	background: rgba(76, 96, 109, 0.9); /*this uses opacity of 75% for the background color*/
 	text-align: center;
 	border-radius: 15px;
 }
@@ -116,7 +116,7 @@ nav{
 	font-size: 1.2em;
 	width:80%;
 	margin: 0 auto;
-	border: double rgb(105, 133, 152);
+	border: double rgb(133, 167, 187);
 	border-width: 8px 0;
 	text-align: center;
 	margin-top: 2em;
@@ -132,7 +132,7 @@ nav a{
 }
 
 a{
-	color: rgb(181, 216, 239);
+	color: rgb(226, 243, 255);
 	text-decoration: none;
 	font-weight: bold;
 }
